@@ -44,4 +44,4 @@ O formulário valida os campos no navegador, mas ainda não envia e-mail nem arm
 - Configure o embed do Figma.
 - Conecte o formulário a um backend.
 - Defina domínio, analytics e metadados sociais (Open Graph).
-- Revise os textos de cada projeto e confirme permissões para publicar as imagens.
+- Revise os textos de cada projeto e confirme permissões para publicar as imagens..
