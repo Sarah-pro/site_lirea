@@ -1,0 +1,2 @@
+Coloque nesta pasta as imagens listadas no README.md da raiz do projeto.
+Mantenha os nomes dos arquivos para que o site os encontre automaticamente.
